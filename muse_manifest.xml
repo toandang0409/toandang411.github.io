@@ -1,0 +1,159 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thietke.com" resolutions="1x" timestamp="1494334124636">
+  <folder name="css">
+    <file name="site_global.css" crc="124066289"/>
+    <file name="index.css" crc="4183068749" ref="index"/>
+    <file name="thuc-hanh2.css" crc="4161036529" ref="thuc-hanh2"/>
+  </folder>
+  <folder name="fonts">
+    <file name="fontnen.woff" crc="3996176601"/>
+    <file name="fontnen.eot" crc="4187678087"/>
+    <file name="fontnen.svg" crc="3795838089"/>
+    <file name="fontto.woff" crc="229857459"/>
+    <file name="fontto.eot" crc="3777658346"/>
+    <file name="fontto.svg" crc="4093192931"/>
+    <file name="chucong.woff" crc="458517120"/>
+    <file name="chucong.eot" crc="206232933"/>
+    <file name="chucong.svg" crc="524781925"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:thuc-hanh2"/>
+    <file name="museutils.js" crc="4232573551" ref="index:thuc-hanh2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:thuc-hanh2"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:thuc-hanh2"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:thuc-hanh2"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index"/>
+    <file name="webpro.js" crc="3770351119" ref="index"/>
+    <file name="form_check.php" crc="3841221102" ref="index"/>
+    <file name="form_throttle.php" crc="4048049783" ref="index"/>
+    <file name="form_process.php" crc="3899230280" ref="index"/>
+    <file name="form-u4097.php" crc="435179495" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:thuc-hanh2"/>
+    <file name="require.js" crc="4234670167" ref="index:thuc-hanh2"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="371090217" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home_tea_slider.jpg" crc="4010586295" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home_tea_slider_pic.png" crc="271124724" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hoa phai.png" crc="471064791" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hoa trai.png" crc="243815132" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logoduoiu.png" crc="466653547" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="thanhnang.jpg" crc="116764461" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nen 88888888.jpg" crc="219488476" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lighet green.png" crc="3868086839" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="uniq back.png" crc="336642052" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home_tea_iconbox3.png" crc="58899108" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="thagngangngan.png" crc="69510856" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nen 2.jpg" crc="147255653" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home_tea_sep3.png" crc="4180770614" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home_tea_pic1.png" crc="224775949" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home_tea_sep4.png" crc="4133744702" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home_tea_values1.png" crc="3785433781" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="thanhnang2.jpg" crc="116764461" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nen 22.jpg" crc="147255653" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt="Send a message"/>
+      <caption webpage="index" alt="Send a message"/>
+    </file>
+    <file name="thagngangngan2.png" crc="69510856" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home_tea_offer1.png" crc="187152402" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home_tea_offer3.png" crc="440146746" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home_tea_offer2.png" crc="4282404967" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home_tea_offer5.png" crc="431647042" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home_tea_offer4.png" crc="363830098" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home_tea_offer6.png" crc="4129033084" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nen 29999.jpg" crc="271023913" ref="index">
+      <caption webpage="index" alt="Enter Name"/>
+      <caption webpage="index" alt="Enter Name"/>
+      <caption webpage="index" alt="Enter Name"/>
+      <caption webpage="index" alt="Enter Name"/>
+      <caption webpage="index" alt="Enter Name"/>
+      <caption webpage="index" alt="Enter Email"/>
+      <caption webpage="index" alt="Enter Email"/>
+      <caption webpage="index" alt="Enter Email"/>
+      <caption webpage="index" alt="Enter Email"/>
+      <caption webpage="index" alt="Enter Email"/>
+      <caption webpage="index" alt="Enter Your Message"/>
+      <caption webpage="index" alt="Enter Your Message"/>
+      <caption webpage="index" alt="Enter Your Message"/>
+      <caption webpage="index" alt="Enter Your Message"/>
+      <caption webpage="index" alt="Enter Your Message"/>
+      <caption webpage="index" alt="Enter Text"/>
+      <caption webpage="index" alt="Enter Text"/>
+      <caption webpage="index" alt="Enter Text"/>
+      <caption webpage="index" alt="Enter Text"/>
+      <caption webpage="index" alt="Enter Text"/>
+    </file>
+  </folder>
+  <file name="index.html" crc="27685468" seo="true" mt="1494326992083" redirect="true"/>
+  <file name="thuc-hanh2.html" crc="492405060" seo="true" mt="1494143219178" redirect="false"/>
+</manifest>
